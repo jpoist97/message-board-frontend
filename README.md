@@ -11,5 +11,5 @@
 ```npm install```
 
 #### Run the Webpage
-```npm run start``` <br />
+```npm start``` <br />
 In order for the webpage to function properly, make sure to run the [message-board-backend](https://github.com/jpoist97/message-board-backend) on port 3001.<br />
