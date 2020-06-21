@@ -1,0 +1,11 @@
+.list-group-item {
+    line-height: 30px;
+}
+
+.float-right .btn{
+    margin-left: 5px;
+}
+
+.new-button{
+    margin-top: 5px;
+}
